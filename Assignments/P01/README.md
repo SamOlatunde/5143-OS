@@ -14,11 +14,7 @@
 
 - 
 
-+------------+
-| name1 age1 |
-| name2 age2 |
-| etc...     |
-+------------+
+
 
 - Example Command:
     - 
