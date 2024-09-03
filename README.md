@@ -8,7 +8,7 @@
 
 #### Image:
 
-<img src="![headshot](https://github.com/user-attachments/assets/7645689a-cd6a-4c0e-a51d-35f2bb69656f)" width="200">
+<img src="https://imgbox.com/mo4awygo" width="200">
 
 
 
