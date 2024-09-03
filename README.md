@@ -7,8 +7,7 @@
 #### Website: https://www.linkedin.com/in/samuel-olatunde-36830425b/
 
 #### Image:
-
-<img src="https://imgbox.com/mo4awygo" width="200">
+<img src="https://thumbs2.imgbox.com/f9/4b/vL6XpCnh_t.jpg" alt="image host"/>
 
 
 
