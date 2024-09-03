@@ -8,10 +8,9 @@
 
 #### Image:
 
-<img src="![headshot](https://github.com/user-attachments/assets/65bc1a67-d798-4dbe-8ab3-8ba28c6e887d)" width="200">
-![image](https://github.com/user-attachments/assets/8e0b2367-26f9-45ee-890f-bdfe5f163c3d)
+<img src="![headshot](https://github.com/user-attachments/assets/7645689a-cd6a-4c0e-a51d-35f2bb69656f)" width="200">
 
-https://as2.ftcdn.net/v2/jpg/05/74/98/59/1000_F_574985951_BdJppi33gRcHCfXloFQUmkkw6hxj8S1s.jpg
+
 
 
 #### Avatar:
